@@ -136,7 +136,7 @@ The public learner package is aligned to the accredited Course Proposal, includi
 
 | Artifact | File |
 |---|---|
-| Trainer slide deck | `courseware/Responsible Generative AI Basics-v13.pptx` (+ `.pdf`) — 82 slides |
+| Trainer slide deck | `courseware/Responsible Generative AI Basics-v13.pptx` (+ `.pdf`) — 83 slides |
 | Lesson Plan | `courseware/LP-Responsible Generative AI Basics.docx` (+ `.pdf`) — v3.2 |
 | Learner Guide | `courseware/LG-Responsible Generative AI Basics.docx` (+ `.pdf` and `.md`) — v3.2 |
 
